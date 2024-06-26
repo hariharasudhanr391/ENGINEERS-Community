@@ -1,0 +1,152 @@
+.login-or-signup .welcome-to {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 60px;
+  color: #FFFFFF;
+}
+.login-or-signup .engineers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 60px;
+  color: #000000;
+}
+.login-or-signup .community {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 60px;
+  color: #000000;
+}
+.login-or-signup .group-16 {
+  position: relative;
+  display: flex;
+  align-self: flex-end;
+  padding-right: 8.8px;
+  height: 135px;
+  box-sizing: border-box;
+}
+.login-or-signup .group-11 {
+  margin: 190px 107.3px 528px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login-or-signup .new-to-the-community {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.login-or-signup .signup {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.login-or-signup .group-20 {
+  border-radius: 10px;
+  border: 3px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 26.2px;
+  display: flex;
+  padding: 19px 3px 12px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+.login-or-signup .group-12 {
+  border-radius: 10px;
+  margin-bottom: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-or-signup .already-an-user {
+  margin: 0 15.5px 18px 13.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.login-or-signup .login {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.login-or-signup .group-17 {
+  border-radius: 10px;
+  border: 3px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 15px 1px 16px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+.login-or-signup .group-13 {
+  border-radius: 10px;
+  margin: 0 26.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-or-signup .group-14 {
+  border-radius: 10px;
+  margin-bottom: 258px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-or-signup .user-terms-agreements {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 15px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.login-or-signup .group-15 {
+  border-radius: 20px;
+  background: rgba(51, 40, 40, 0.5);
+  position: relative;
+  margin-top: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 179px 0 10px 0;
+  width: 663px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-or-signup {
+  background: #D9D9D9;
+  display: flex;
+  flex-direction: row;
+  padding: 131px 82px 96px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

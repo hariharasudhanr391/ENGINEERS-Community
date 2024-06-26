@@ -1,0 +1,1467 @@
+.homepage-following .engineers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.homepage-following .community {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.homepage-following .group-63 {
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding-right: 4.4px;
+  height: 68px;
+  box-sizing: border-box;
+}
+.homepage-following .type-to-search {
+  margin: 7px 11.5px 5px 0;
+  display: inline-block;
+  width: 404px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .iconsearch {
+  width: 25px;
+  height: 25px;
+}
+.homepage-following .group-64 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 6px 5px 4px 5px;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.homepage-following .group-65 {
+  border-radius: 15px;
+  background: rgba(143, 138, 138, 0.5);
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 13px 8px 13px 9.5px;
+  width: 468px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .vector-34 {
+  width: 33.5px;
+  height: 33.3px;
+}
+.homepage-following .settings-fill-0-wght-400-grad-0-opsz-241 {
+  margin: 8.3px 35.3px 8.3px 0;
+  display: flex;
+  width: 33.5px;
+  height: 33.3px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-33 {
+  width: 31.3px;
+  height: 31.3px;
+}
+.homepage-following .iconuser {
+  display: flex;
+  width: 31.3px;
+  height: 31.3px;
+  box-sizing: border-box;
+}
+.homepage-following .group-66 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 9.4px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.homepage-following .container-14 {
+  margin: 8px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  width: 118.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-101 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 64px 25px 45px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.homepage-following .for-you {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.homepage-following .group-72 {
+  border-bottom: 1px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 28px 2.6px 27px 0;
+  width: 387px;
+  box-sizing: border-box;
+}
+.homepage-following .following {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .group-73 {
+  border-bottom: 3px solid #FFFFFF;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 28px 0.9px 27px 0;
+  width: 387px;
+  box-sizing: border-box;
+}
+.homepage-following .group-94 {
+  position: relative;
+  margin-bottom: 39px;
+  display: flex;
+  flex-direction: row;
+  width: 774px;
+  box-sizing: border-box;
+}
+.homepage-following .rectangle-42 {
+  border-radius: 10px 0 0 0;
+  background: url('assets/images/Rectangle422.jpeg') 50% / cover no-repeat;
+  margin-right: 5px;
+  width: 634px;
+  height: 346px;
+}
+.homepage-following .vector-18 {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .download {
+  margin-bottom: 15px;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-19 {
+  width: 14px;
+  height: 18px;
+}
+.homepage-following .bookmark-fill-0-wght-400-grad-0-opsz-241 {
+  margin: 0 3px 17px 3px;
+  display: flex;
+  width: 14px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-20 {
+  width: 19px;
+  height: 16px;
+}
+.homepage-following .send-fill-0-wght-400-grad-0-opsz-241 {
+  margin-left: 1px;
+  display: flex;
+  width: 19px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.homepage-following .group-96 {
+  margin-bottom: 37.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-16 {
+  width: 20px;
+  height: 18.4px;
+}
+.homepage-following .favorite-fill-0-wght-400-grad-0-opsz-241 {
+  margin-bottom: 13px;
+  display: flex;
+  width: 20px;
+  height: 18.4px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-17 {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .forum-fill-0-wght-400-grad-0-opsz-241 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .group-97 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .group-98 {
+  margin: 11px 0 160px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .container-12 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  width: 659px;
+  box-sizing: border-box;
+}
+.homepage-following .ai-to-evolve-in-creating-notes-for-entire-course {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.homepage-following .ccpython-community {
+  margin-right: 10.3px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .jothi-raghava {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-99 {
+  margin: 0 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-100 {
+  margin: 0 12px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-95 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0 4px 12px 0;
+  box-sizing: border-box;
+}
+.homepage-following .rectangle-421 {
+  border-radius: 10px 0 0 0;
+  background: url('assets/images/Rectangle42.jpeg') 50% / cover no-repeat;
+  margin-right: 5px;
+  width: 634px;
+  height: 346px;
+}
+.homepage-following .vector-23 {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .download-1 {
+  margin-bottom: 15px;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-24 {
+  width: 14px;
+  height: 18px;
+}
+.homepage-following .bookmark-fill-0-wght-400-grad-0-opsz-2411 {
+  margin: 0 3px 17px 3px;
+  display: flex;
+  width: 14px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-25 {
+  width: 19px;
+  height: 16px;
+}
+.homepage-following .send-fill-0-wght-400-grad-0-opsz-2411 {
+  margin-left: 1px;
+  display: flex;
+  width: 19px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.homepage-following .group-962 {
+  margin-bottom: 37.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-21 {
+  width: 20px;
+  height: 18.4px;
+}
+.homepage-following .favorite-fill-0-wght-400-grad-0-opsz-2411 {
+  margin-bottom: 13px;
+  display: flex;
+  width: 20px;
+  height: 18.4px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-22 {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .forum-fill-0-wght-400-grad-0-opsz-2411 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .group-971 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .group-981 {
+  margin: 11px 0 160px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .container-8 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  width: 659px;
+  box-sizing: border-box;
+}
+.homepage-following .english-is-the-only-coding-language-says-nvidia-ceo {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.homepage-following .cctechnology-news {
+  margin-right: 11.1px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .baymax {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-991 {
+  margin: 0 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-1001 {
+  margin: 0 56.8px 0 12px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-961 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: -505px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 4px 12px 0;
+  box-sizing: border-box;
+}
+.homepage-following .rectangle-422 {
+  border-radius: 10px 0 0 0;
+  background: url('assets/images/Rectangle421.jpeg') 50% / cover no-repeat;
+  margin-right: 5px;
+  width: 634px;
+  height: 346px;
+}
+.homepage-following .vector-28 {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .download-2 {
+  margin-bottom: 15px;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-29 {
+  width: 14px;
+  height: 18px;
+}
+.homepage-following .bookmark-fill-0-wght-400-grad-0-opsz-2412 {
+  margin: 0 3px 17px 3px;
+  display: flex;
+  width: 14px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-30 {
+  width: 19px;
+  height: 16px;
+}
+.homepage-following .send-fill-0-wght-400-grad-0-opsz-2412 {
+  margin-left: 1px;
+  display: flex;
+  width: 19px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.homepage-following .group-963 {
+  margin-bottom: 37.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-26 {
+  width: 20px;
+  height: 18.4px;
+}
+.homepage-following .favorite-fill-0-wght-400-grad-0-opsz-2412 {
+  margin-bottom: 13px;
+  display: flex;
+  width: 20px;
+  height: 18.4px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-27 {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .forum-fill-0-wght-400-grad-0-opsz-2412 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .group-973 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .group-982 {
+  margin: 11px 0 160px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .container-3 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  width: 659px;
+  box-sizing: border-box;
+}
+.homepage-following .uploaded-wipros-previous-question-pattern {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.homepage-following .cceducat-community {
+  margin-right: 11.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .jothi-raghava-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-992 {
+  margin: 0 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-1002 {
+  margin: 0 12px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-972 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: -1010px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0 4px 12px 0;
+  box-sizing: border-box;
+}
+.homepage-following .frame-39 {
+  position: relative;
+  margin: 0 56px 0 55px;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-following .container-5 {
+  margin: 1px 0 322px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepage-following .rectangle-26 {
+  filter: blur(2px);
+  background: #B4B2B2;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 333px;
+  height: 901px;
+}
+.homepage-following .post-aquestion {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .group-74 {
+  border-radius: 5px;
+  background: #064484;
+  position: relative;
+  margin-bottom: 22px;
+  display: flex;
+  padding: 15px 1.5px 14px 0;
+  width: 290px;
+  box-sizing: border-box;
+}
+.homepage-following .popular-communities {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.homepage-following .container-9 {
+  border-radius: 5px 5px 0 0;
+  background: #064484;
+  position: relative;
+  margin-bottom: 18px;
+  padding: 16px 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-3 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .cccommunity-01 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-82 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-4 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-01 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-81 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-5 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-02 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-80 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-6 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .cccommunity-02 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-79 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-7 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-03 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-78 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-8 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-04 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-77 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-9 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-05 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-76 {
+  margin: 0 17px 18px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .see-more {
+  margin: 0 17px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #B4B2B2;
+}
+.homepage-following .group-83 {
+  border-radius: 5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .communities-that-youre-in {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.homepage-following .container-15 {
+  border-radius: 5px 5px 0 0;
+  background: #064484;
+  position: relative;
+  margin-bottom: 18px;
+  padding: 16px 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-31 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .cccommunity-011 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-821 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-41 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-011 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-811 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-51 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-021 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-801 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-61 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .cccommunity-021 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-791 {
+  margin: 0 17px 12px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .ellipse-71 {
+  border-radius: 15px;
+  background: url('assets/images/Ellipse7.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.homepage-following .occommunity-031 {
+  margin: 8px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-781 {
+  margin: 0 17px 23px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .see-more-1 {
+  margin: 0 17px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #B4B2B2;
+}
+.homepage-following .group-91 {
+  border-radius: 5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-92 {
+  position: relative;
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .all-rights-sre-reserved-to-engineers-community-pvt-ltd {
+  position: relative;
+  margin-right: 3.9px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #D9D9D9;
+}
+.homepage-following .group-93 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 21px 21px 21px 22px;
+  width: 333px;
+  box-sizing: border-box;
+}
+.homepage-following .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .rectangle-25 {
+  filter: blur(2px);
+  border-right: 1px solid #B4B2B2;
+  background: #D9D9D9;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 333px;
+  height: 901px;
+}
+.homepage-following .vector {
+  width: 20px;
+  height: 20px;
+}
+.homepage-following .iconhome-simple-door {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .container-10 {
+  border-radius: 5px;
+  background: #F2F2F2;
+  position: relative;
+  margin-right: 19.3px;
+  display: flex;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.homepage-following .home {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .container {
+  border-radius: 15px 15px 0 0;
+  border: 1px solid #000000;
+  background: #064484;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 15px;
+  width: 246px;
+  box-sizing: border-box;
+}
+.homepage-following .images-11 {
+  background: url('assets/images/Images11.png');
+  width: 22px;
+  height: 19.6px;
+}
+.homepage-following .container-16 {
+  border-radius: 5px;
+  background: #F2F2F2;
+  position: relative;
+  margin-right: 18px;
+  display: flex;
+  padding: 6px 4px 4.4px 4px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.homepage-following .your-treads {
+  margin: 5px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .container-6 {
+  border: 1px solid #000000;
+  background: #B4B2B2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 15px;
+  width: 246px;
+  box-sizing: border-box;
+}
+.homepage-following .free-save-325159727246461 {
+  background: url('assets/images/FreeSave325159727246461.png') 50% / cover no-repeat;
+  width: 22px;
+  height: 23px;
+}
+.homepage-following .container-13 {
+  border-radius: 5px;
+  background: #F2F2F2;
+  position: relative;
+  margin-right: 19.4px;
+  display: flex;
+  padding: 4px 4px 3px 4px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.homepage-following .saved {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .container-4 {
+  border-radius: 0 0 15px 15px;
+  border: 1px solid #000000;
+  background: #B4B2B2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 15px;
+  width: 246px;
+  box-sizing: border-box;
+}
+.homepage-following .group-71 {
+  position: relative;
+  margin: 0 0 35.5px 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .line-5 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 16.5px 3px;
+  width: 286px;
+  height: 2px;
+}
+.homepage-following .topics {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .iconandroid-os {
+  width: 20px;
+  height: 21.9px;
+}
+.homepage-following .android-studio {
+  margin-bottom: 6.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-86 {
+  margin: 0 3px 27.1px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 119.2px;
+  box-sizing: border-box;
+}
+.homepage-following .iconhtml-5 {
+  width: 20px;
+  height: 23.3px;
+}
+.homepage-following .html-5 {
+  margin: 7px 0 1.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-87 {
+  margin: 0 3px 31.2px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 82.5px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-12 {
+  width: 20px;
+  height: 19px;
+}
+.homepage-following .iconredux-original {
+  display: flex;
+  width: 20px;
+  height: 19px;
+  box-sizing: border-box;
+}
+.homepage-following .react-redux {
+  margin: 2.5px 0 1.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-88 {
+  margin: 0 3px 24.5px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 106.5px;
+  box-sizing: border-box;
+}
+.homepage-following .see-more-2 {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #B4B2B2;
+}
+.homepage-following .group-89 {
+  border-radius: 6px;
+  border: 1px solid #FFFFFF;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 0 22.5px 1px;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 0 24px 21px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .line-7 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 29.5px 3px;
+  width: 286px;
+  height: 2px;
+}
+.homepage-following .suggested-contents {
+  margin-bottom: 20.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.homepage-following .vector-13 {
+  width: 22px;
+  height: 21px;
+}
+.homepage-following .new-releases-fill-0-wght-400-grad-0-opsz-241 {
+  display: flex;
+  width: 22px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.homepage-following .new-technologies {
+  margin: 3.5px 0 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-861 {
+  margin: 0 5px 33.5px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 130.6px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-14 {
+  width: 18px;
+  height: 18px;
+}
+.homepage-following .sticky-note-2-fill-0-wght-400-grad-0-opsz-241 {
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.homepage-following .recent-question-banks {
+  margin: 2px 0 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-871 {
+  margin: 0 0 34px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 149.8px;
+  box-sizing: border-box;
+}
+.homepage-following .vector-15 {
+  width: 16px;
+  height: 20px;
+}
+.homepage-following .description-fill-0-wght-400-grad-0-opsz-241 {
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.homepage-following .question-papers {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.homepage-following .group-881 {
+  margin: 0 20px 24px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 117.9px;
+  box-sizing: border-box;
+}
+.homepage-following .see-more-3 {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  color: #B4B2B2;
+}
+.homepage-following .group-102 {
+  border-radius: 6px;
+  border: 1px solid #FFFFFF;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 1px 34.5px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 0 24px 21px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .line-6 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 18.5px 3px;
+  width: 286px;
+  height: 2px;
+}
+.homepage-following .privacy-policy {
+  margin-right: 16.3px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.homepage-following .consent-policy {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.homepage-following .container-1 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .terms-and-conditions {
+  margin-right: 12.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.homepage-following .user-agreement {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.homepage-following .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-90 {
+  position: relative;
+  margin-right: 81.9px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-following .group-103 {
+  position: absolute;
+  left: 3px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 21px 17px 23px;
+  box-sizing: border-box;
+}
+.homepage-following {
+  background: #D9D9D9;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

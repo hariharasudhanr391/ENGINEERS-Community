@@ -1,0 +1,355 @@
+.your-threads .engineers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.your-threads .community {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.your-threads .group-63 {
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding-right: 4.4px;
+  height: 68px;
+  box-sizing: border-box;
+}
+.your-threads .type-to-search {
+  margin: 7px 11.5px 5px 0;
+  display: inline-block;
+  width: 404px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.your-threads .iconsearch {
+  width: 25px;
+  height: 25px;
+}
+.your-threads .group-64 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 6px 5px 4px 5px;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.your-threads .group-65 {
+  border-radius: 15px;
+  background: rgba(143, 138, 138, 0.5);
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 13px 8px 13px 9.5px;
+  width: 468px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .vector-4 {
+  width: 33.5px;
+  height: 33.3px;
+}
+.your-threads .settings-fill-0-wght-400-grad-0-opsz-241 {
+  margin: 8.3px 35.3px 8.3px 0;
+  display: flex;
+  width: 33.5px;
+  height: 33.3px;
+  box-sizing: border-box;
+}
+.your-threads .vector-3 {
+  width: 31.3px;
+  height: 31.3px;
+}
+.your-threads .iconuser {
+  display: flex;
+  width: 31.3px;
+  height: 31.3px;
+  box-sizing: border-box;
+}
+.your-threads .group-66 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 9.4px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.your-threads .container-4 {
+  margin: 8px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  width: 118.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .group-101 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 64px 25px 45px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.your-threads .rectangle-25 {
+  filter: blur(2px);
+  border-right: 1px solid #B4B2B2;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.your-threads .vector {
+  width: 20px;
+  height: 20px;
+}
+.your-threads .iconhome-simple-door {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.your-threads .container-10 {
+  border-radius: 5px;
+  background: #F2F2F2;
+  position: relative;
+  margin-right: 19.3px;
+  display: flex;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.your-threads .home {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.your-threads .container-1 {
+  border-radius: 15px 15px 0 0;
+  border: 1px solid #000000;
+  background: #B4B2B2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 15px;
+  width: 246px;
+  box-sizing: border-box;
+}
+.your-threads .images-11 {
+  background: url('assets/images/Images11.png');
+  width: 22px;
+  height: 19.6px;
+}
+.your-threads .container-9 {
+  border-radius: 5px;
+  background: #F2F2F2;
+  position: relative;
+  margin-right: 18px;
+  display: flex;
+  padding: 6px 4px 4.4px 4px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.your-threads .your-treads {
+  margin: 5px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.your-threads .container-3 {
+  border: 1px solid #000000;
+  background: #064484;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 15px;
+  width: 246px;
+  box-sizing: border-box;
+}
+.your-threads .free-save-325159727246461 {
+  background: url('assets/images/FreeSave325159727246461.png') 50% / cover no-repeat;
+  width: 22px;
+  height: 23px;
+}
+.your-threads .container {
+  border-radius: 5px;
+  background: #F2F2F2;
+  position: relative;
+  margin-right: 19.4px;
+  display: flex;
+  padding: 4px 4px 3px 4px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.your-threads .saved {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.your-threads .container-8 {
+  border-radius: 0 0 15px 15px;
+  border: 1px solid #000000;
+  background: #B4B2B2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 15px;
+  width: 246px;
+  box-sizing: border-box;
+}
+.your-threads .group-71 {
+  position: relative;
+  margin: 0 0 647px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .privacy-policy {
+  margin-right: 16.3px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.your-threads .consent-policy {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.your-threads .container-2 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .terms-and-conditions {
+  margin-right: 12.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.your-threads .user-agreement {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #B4B2B2;
+}
+.your-threads .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .group-90 {
+  position: relative;
+  margin-right: 72.9px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .group-103 {
+  position: relative;
+  margin-right: 82px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 0 17px 0;
+  width: 333px;
+  box-sizing: border-box;
+}
+.your-threads .free-save-325159727246462 {
+  background: url('assets/images/FreeSave325159727246461.png') 50% / cover no-repeat;
+  margin-bottom: 14.7px;
+  width: 50px;
+  height: 52.3px;
+}
+.your-threads .no-saved-threads {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.your-threads .container-6 {
+  border-radius: 10px;
+  border: 3px dashed #000000;
+  background: #D9D9D9;
+  position: relative;
+  margin: 106px 0 112px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 299px 0 294px 0;
+  width: 958px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-threads .container-7 {
+  margin: 0 64px 0 3px;
+  display: flex;
+  flex-direction: row;
+  width: 1373px;
+  box-sizing: border-box;
+}
+.your-threads {
+  background: #D9D9D9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

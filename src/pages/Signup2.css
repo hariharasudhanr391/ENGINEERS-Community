@@ -1,0 +1,192 @@
+.signup-2 .engineers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 60px;
+  color: #000000;
+}
+.signup-2 .community {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 60px;
+  color: #000000;
+}
+.signup-2 .group-16 {
+  position: relative;
+  margin: 0 0.3px 42px 0;
+  display: flex;
+  padding-right: 8.8px;
+  height: 135px;
+  box-sizing: border-box;
+}
+.signup-2 .username-email-id {
+  margin: 0 1.6px 15.1px 1.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.signup-2 .rectangle-9 {
+  border-radius: 10px;
+  border: 3px solid #000000;
+  background: #D9D9D9;
+  width: 857px;
+  height: 99.9px;
+}
+.signup-2 .group-14 {
+  border-radius: 10px;
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-2 .line-2 {
+  background: #FFFFFF;
+  margin: 14px 0 11px 0;
+  width: 324px;
+  height: 3px;
+}
+.signup-2 .or-continue-with {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.signup-2 .line-3 {
+  background: #FFFFFF;
+  margin: 14px 0 11px 0;
+  width: 323px;
+  height: 3px;
+}
+.signup-2 .group-25 {
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857px;
+  box-sizing: border-box;
+}
+.signup-2 .iconlinkedin-original {
+  width: 70px;
+  height: 70px;
+}
+.signup-2 .group-27 {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 10px 6px 6px 0;
+  width: 162px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.signup-2 .icongoogle {
+  width: 70px;
+  height: 70px;
+}
+.signup-2 .group-28 {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 7px 4px 9px 0;
+  width: 162px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.signup-2 .iconms-outlook {
+  width: 70px;
+  height: 61.2px;
+}
+.signup-2 .group-26 {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 11px 2px 13.8px 0;
+  width: 162px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.signup-2 .container {
+  margin: 0 9px 145px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 708px;
+  box-sizing: border-box;
+}
+.signup-2 .signup {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.signup-2 .group-18 {
+  border-radius: 10px;
+  border: 3px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 0 17px 1px;
+  display: flex;
+  padding: 15px 1px 16px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+.signup-2 .already-have-an-account-login {
+  margin-left: 1px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.already-have-an-account-login-sub5 {
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.already-have-an-account-login {
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.signup-2 .group-19 {
+  border-radius: 20px;
+  background: rgba(51, 40, 40, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 67px 56px 26px 58px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-2 {
+  background: #D9D9D9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 65px 0 59px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

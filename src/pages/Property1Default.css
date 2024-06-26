@@ -1,0 +1,115 @@
+.property-1-default .university {
+  margin-right: 19px;
+  width: 236.6px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.property-1-default .course {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.property-1-default .subjects {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.property-1-default .group-29 {
+  margin: 0 10.5px 13.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 587.1px;
+  box-sizing: border-box;
+}
+.property-1-default .line-4 {
+  background: #FFFFFF;
+  margin: 0 0 10.5px 1px;
+  width: 724px;
+  height: 3px;
+}
+.property-1-default .rectangle-19 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 50%;
+  top: 15px;
+  translate: -50% 0;
+  width: 950px;
+  height: 491px;
+}
+.property-1-default .college-name {
+  margin: 16px 61.5px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.property-1-default .rectangle-20 {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #B4B2B2;
+  width: 519px;
+  height: 70px;
+}
+.property-1-default .group-33 {
+  border-radius: 10px;
+  position: relative;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default .college-email {
+  margin: 16px 63.7px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.property-1-default .rectangle-201 {
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #B4B2B2;
+  width: 519px;
+  height: 70px;
+}
+.property-1-default .group-34 {
+  border-radius: 10px;
+  position: relative;
+  margin-left: 1.1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default .group-37 {
+  border-radius: 10px;
+  background: rgba(143, 138, 138, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 162px 0 169px 0;
+  width: 1077px;
+  box-sizing: border-box;
+}
+.property-1-default {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1077px;
+  box-sizing: border-box;
+}

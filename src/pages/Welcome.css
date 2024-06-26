@@ -1,0 +1,403 @@
+.welcome .engineers-1 {
+  margin-right: 4.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .community-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .group-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.welcome .home {
+  margin: 15px 9.5px 15px 0;
+  display: inline-block;
+  width: 83.1px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.welcome .content {
+  margin: 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.welcome .about {
+  margin: 15px 31.2px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.welcome .login-signup-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.welcome .frame-1 {
+  border-radius: 50px;
+  background: #000000;
+  display: flex;
+  padding: 15px 15.8px;
+  box-sizing: border-box;
+}
+.welcome .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.welcome .group-2 {
+  border-radius: 50px;
+  margin: 14px 0 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 370px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.welcome .header {
+  border: 3px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 757px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 121px 23px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.welcome .create-an-invite-only-place-where-you-belong {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Titan One';
+  font-weight: 400;
+  font-size: 50px;
+  color: #000000;
+}
+.welcome .our-community-servers-are-organized-into-topic-based-channels-where-you-con-collaborate-share-and-just-abut-the-subject-without-clogging-the-chat {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .group-5 {
+  margin: 221px 60.9px 72px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.welcome .rectangle-5 {
+  border-radius: 5px;
+  background: url('assets/images/Rectangle5.png') 50% / cover no-repeat;
+  margin-top: 169px;
+  width: 466px;
+  height: 429px;
+}
+.welcome .para-02 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 169px 144px 176px 144px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.welcome .rectangle-51 {
+  border-radius: 5px;
+  background: url('assets/images/Rectangle5.png') 50% / cover no-repeat;
+  margin: 222px 59.9px 0 0;
+  width: 466px;
+  height: 429px;
+}
+.welcome .dynamic-feeds-on-fyp {
+  margin: 0 0px 37px 0px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Titan One';
+  font-weight: 400;
+  font-size: 50px;
+  color: #000000;
+}
+.welcome .feeds-on-for-you-page-is-refreshed-and-refilled-with-healthy-amount-of-your-preferred-topic-or-community-posts-and-comments {
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .group-6 {
+  margin: 274px 0 112px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.welcome .para-03 {
+  background: rgba(217, 217, 217, 0.9);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 222px 144px 123px 144px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.welcome .ready-to-start-your-journey {
+  margin-bottom: 64px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Titan One';
+  font-weight: 400;
+  font-size: 64px;
+  color: #000000;
+}
+.welcome .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 64px;
+  color: #FFFFFF;
+}
+.welcome .frame-2 {
+  border-radius: 63px;
+  background: #000000;
+  display: flex;
+  padding: 20px 26.4px;
+  box-sizing: border-box;
+}
+.welcome .para-04 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 209px 0 235px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.welcome .vector {
+  width: 50px;
+  height: 50px;
+}
+.welcome .iconinstagram-icon {
+  margin-right: 48px;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.welcome .vector-1 {
+  width: 50px;
+  height: 46.9px;
+}
+.welcome .group-9 {
+  margin: 2px 0 1.1px 0;
+  display: flex;
+  width: 50px;
+  height: 46.9px;
+  box-sizing: border-box;
+}
+.welcome .container-2 {
+  margin: 113px 0 138px 0;
+  display: flex;
+  flex-direction: row;
+  width: 148px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.welcome .company-about-jobs-brand-newsroom {
+  margin: 0 72.1px 125px 0;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.company-about-jobs-brand-newsroom {
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.resources-college-support-safety-blog-feedback-creators-community-developers-merch {
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.welcome .resources-college-support-safety-blog-feedback-creators-community-developers-merch {
+  margin-right: 59.1px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .policies-terms-policies-cookie-settings-guidelines-acknowledgements-licenses-company-information {
+  margin-bottom: 50px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.policies-terms-policies-cookie-settings-guidelines-acknowledgements-licenses-company-information {
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.welcome .group-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.welcome .container-1 {
+  margin: 0 0 257px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1133px;
+  box-sizing: border-box;
+}
+.welcome .line-1 {
+  background: #FFFFFF;
+  margin-bottom: 14px;
+  width: 1302px;
+  height: 5px;
+}
+.welcome .engineers {
+  margin-right: 4.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .community {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .group-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.welcome .signup {
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.welcome .frame-21 {
+  border-radius: 50px;
+  background: #000000;
+  margin: 5px 0 22px 0;
+  display: flex;
+  padding: 15px 15.6px;
+  box-sizing: border-box;
+}
+.welcome .container-3 {
+  margin: 0 76px 0 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1151px;
+  box-sizing: border-box;
+}
+.welcome .group-8 {
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.welcome .footer {
+  background: rgba(143, 138, 138, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 106px 69px 15px 69px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.welcome .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.welcome .strap-in-engineers {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Titan One';
+  font-weight: 400;
+  font-size: 100px;
+  color: #000000;
+}
+.welcome .here-at-our-hub-of-gears-jokes-and-genius-were-not-just-building-bridges-were-forging-friendships-and-fixing-problems-with-ahealthy-dose-of-humor-lets-engineer-aworld-where-laughter-and-learning-go-hand-in-hand {
+  margin-right: 35.5px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Fjalla One';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.welcome .welcome-para {
+  background: rgba(217, 217, 217, 0.9);
+  position: absolute;
+  top: 122px;
+  right: -13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: 766px;
+}
+.welcome {
+  background: rgba(51, 40, 40, 0.5);
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
